@@ -1,8 +1,6 @@
 require('chromedriver');
 const assert = require('assert');
-const { withTagName} = require('selenium-webdriver');
-const { locateWith, getAttribute } = require('selenium-webdriver');
-const {Builder, Key, By, until} = require('selenium-webdriver');
+const {Builder, By, withTagName} = require('selenium-webdriver');
 
 const url = "https://www.atlantbh.com/contact/"
 const inputMailXpathLocator = "//input[@id='form-input-mail']"
