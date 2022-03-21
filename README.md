@@ -1,1 +1,1 @@
-# relative_locators_js
+# Relative Locators in JS
