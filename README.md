@@ -15,10 +15,10 @@ yarn install
 
 ## Geting Started
 
-This is an unofficially guide that shows how to use Relative Locators with JavaScript.
+This is an unofficial guide that shows how to use Relative Locators with JavaScript.
 
 First create empty directory which will you use as your project directory.
-Step into your project and genarate __package.json__ to get conssiten installs across machines where you can store information about version, author, and etc.
+Step into your project and generate __package.json__ to get consistent  installs across machines where you can store information about version, author, and etc.
 ```
 yarn init
 ```
