@@ -6,7 +6,7 @@ This is an demonstration of UI testing by using Selenium 4 Relative Locators and
 
 ## Installation
 
-For this project I will use *yarn* for instaling packages and running scripts. You will need to install either **yarn** or **node** on your machine.
+For this project I will use *yarn* for installing packages and running scripts. You will need to install either **yarn** or **node** on your machine.
 ```
 yarn install
 ```
