@@ -3,14 +3,14 @@
 This is an demonstration of UI testing by using Selenium 4 Relative Locators and JavaScript.
 
 
-### Installation
+## Installation
 
 For this project I will use *yarn* for instaling packages and running scripts. You will need to install either **yarn** or **node** on your machine.
 ```
 yarn install
 ```
 
-### Geting Started
+## Geting Started
 
 This is an unofficially guide that shows how to use Relative Locators with JavaScript.
 
@@ -20,7 +20,7 @@ Step into your project and genarate __package.json__ to get conssiten installs a
 yarn init
 ```
 
-### Add dependencies to project
+## Add dependencies to project
 
 This project will use **chrome** browser and **mocha** framework for testing. Packages can be added using command.
 ```
@@ -33,9 +33,9 @@ yarn add chromedriver selenium-webdriver
 yarn add mocha -D
 ```
 
-### Running UI Test
+## Running UI Test
 
 Running UI test can be done with **yarn** command.
-```
+```diff
 yarn @@test@@
 ```
