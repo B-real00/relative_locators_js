@@ -37,5 +37,5 @@ yarn add mocha -D
 
 Running UI test can be done with **yarn** command.
 ```diff
-yarn + test
+yarn test
 ```
