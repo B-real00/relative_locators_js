@@ -1,0 +1,19 @@
+{
+  "name": "relative_locators_js",
+  "version": "1.0.0",
+  "description": "Selenium 4 Relative Locators Example Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --timeout 10000 test.js"
+  },
+  "repository": "https://github.com/B-real00/relative_locators_js",
+  "author": "Biljana Popovic",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^99.0.0",
+    "selenium-webdriver": "^4.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
