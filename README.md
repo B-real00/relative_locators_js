@@ -1,4 +1,4 @@
-# Selenium Relative Locators in JS
+# Selenium Relative Locators in JavaScript
 
 This is an demonstration of UI testing by using Selenium 4 Relative Locators and JavaScript.
 
@@ -13,7 +13,7 @@ yarn install
 
 
 
-## Geting Started
+## Getting Started
 
 This is an unofficial guide that shows how to use Relative Locators with JavaScript.
 
