@@ -14,14 +14,14 @@ yarn install
 
 This is an unofficially guide that shows how to use Relative Locators with JavaScript.
 
-##### Start project
-
 First create empty directory which will you use as your project directory.
 Step into your project and genarate __package.json__ to get conssiten installs across machines where you can store information about version, author, and etc.
 ```
 yarn init
 ```
-##### Add dependencies to project
+
+### Add dependencies to project
+
 This project will use **chrome** browser and **mocha** framework for testing. Packages can be added using command.
 ```
 yarn add <name of package>
@@ -33,7 +33,9 @@ yarn add chromedriver selenium-webdriver
 yarn add mocha -D
 ```
 
-##### Running UI Test
+### Running UI Test
+
 Running UI test can be done with **yarn** command.
 ```
-yarn @@test
+yarn @@test@@
+```
